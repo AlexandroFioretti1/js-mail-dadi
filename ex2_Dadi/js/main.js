@@ -24,3 +24,4 @@ if (giocatore > computer) {
 } else {
   console.log("Pareggio!");
 }
+/* stampo i risultati della partita per definire il vincitore a schermo */
