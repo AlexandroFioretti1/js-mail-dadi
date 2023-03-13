@@ -47,7 +47,7 @@ function checkEmail() {
   } else {
     resultMessage.innerText = `L'email ${userEmail} non è autorizzata ad accedere.`;
   }
-  console.log(userEmail)
+  console.log(userEmail);
 }
 /* chiusura della "function" */
 
